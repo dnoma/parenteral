@@ -34,7 +34,7 @@ wheels/
 *.egg
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Environment files
 .env
@@ -44,3 +44,6 @@ wheels/
 # Operating System
 .DS_Store
 Thumbs.db
+
+# Requirements text ignore
+requirements.txt
